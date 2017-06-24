@@ -1,8 +1,9 @@
 # Note-for-Python
 Pandas:
-	Find a value in a Series/Dataframe:
+    Find a value in a Series/Dataframe:
 		df[df['key'] > 0]
-		To get the index of the return data:
+        
+    To get the index of the return data:
 		df[df['key'] > 0].index
 
 Pandas.read_excel:
