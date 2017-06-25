@@ -25,3 +25,10 @@ Pandas.Series:
     	Note: S.drop() will keep series S unchanged and return a new, handled series. All indexs in this new series remain unchanged except index n will be removed.
 		
 	
+Numpy:
+
+	Reshape an array (By the way we can get a column vector from a row vector):
+		ndarray.reshape
+	
+	Achieve Matrix Multiplication using ndarray:
+		np.dot(A, B)
