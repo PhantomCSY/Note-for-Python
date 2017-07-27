@@ -31,3 +31,4 @@ Numpy:
 	Reshape an array (By the way we can get a column vector from a row vector):
 		ndarray.reshape
 	
+pandas 搜索，转换numpy，loc，timestamp
